@@ -17,14 +17,25 @@ Sorting helpful reviews by upvote/downvote numbers: Best reviews will be reveale
 This dataset, which includes Amazon product data, includes product categories and various metadata. The dataset consists of the product with the most reviews in the electronics category has user ratings and reviews.
 
 reviewerID: User ID
+
 asin: Product ID
+
 reviewerName: User name
+
 helpful: Helpful review
+
 reviewText: Review text
+
 overall: Product rating
+
 summary: Review summary
+
 unixReviewTime: Review time
+
 reviewTime: Raw review time
+
 day_diff: Number of days since review
+
 helpful_yes: The number of times the review was found useful
+
 total_vote: Number of votes given to the review
